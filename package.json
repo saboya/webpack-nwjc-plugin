@@ -1,0 +1,22 @@
+{
+  "name": "webpack-nwjc-plugin",
+  "version": "1.0.0",
+  "main": "lib/index.js",
+  "author": "Rodrigo Saboya",
+  "license": "MIT",
+  "keywords": [
+    "webpack",
+    "plugin",
+    "nwjs",
+    "nwjc",
+    "compiler",
+    "html-webpack-plugin"
+  ],
+  "dependencies": {
+    "temp": "^0.8.3",
+    "webpack-sources": "^1.0.1"
+  },
+  "peerDependencies": {
+    "nw": "^0.23.4"
+  }
+}
