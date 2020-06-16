@@ -12,6 +12,13 @@
     "compiler",
     "html-webpack-plugin"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/saboya/webpack-nwjc-plugin.git"
+  },
+  "bugs": {
+    "url": "https://github.com/saboya/webpack-nwjc-plugin/issues"
+  },
   "dependencies": {
     "temp": "^0.8.3",
     "webpack-sources": "^1.0.1"
