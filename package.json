@@ -24,6 +24,6 @@
     "webpack-sources": "^1.0.1"
   },
   "peerDependencies": {
-    "nw": "^0.23.4"
+    "nw": "^0.31.5-sdk"
   }
 }
